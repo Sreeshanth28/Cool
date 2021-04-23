@@ -1,0 +1,151 @@
+body {
+  background-color: #bbbbbb;
+  text-align: center;
+  font-family: 'Caveat', cursive;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.one {
+  background-color: #65d6ce;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+h1{
+  color: #31326f;
+  margin: 0;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  font-size: 5.565rem;
+}
+h2 {
+  font-weight: normal;
+  color: #046582;
+
+  font-family: 'New Tegomin', serif;
+  font-size: 3rem;
+}
+.one {
+  margin-top: 0;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top : 50px;
+}
+
+.avatar {
+  text-align: center;
+  height: 50px;
+  width: 100%;
+}
+
+.shan {
+  display: inline-block;
+}
+
+.boy {
+  width: 8rem;
+  transform: translateY(2rem);
+}
+
+.skill-row {
+  width: 50%;
+  text-align: center;
+  margin: 5% auto 10% auto;
+  font-size: 2rem;
+  text-align: left;
+}
+
+.computer {
+  width: 30%;
+  float: left;
+  margin-right: 10%;
+}
+
+.chillies {
+  width: 30%;
+  float: right;
+  margin-left: 10%;
+}
+
+.shan_image {
+  width: 50%;
+  margin-top: 7%;
+}
+
+.profile {
+  margin: 5% auto auto auto;
+  width: 30%;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #2b2e4a;
+  border-width: 5px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 0% auto auto auto;
+}
+
+.btn {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: monospace;
+  background-color: #046582;
+  margin-bottom: 10%;
+  color: #edffec;
+  border-radius: 1rem;
+}
+
+.btn:hover {
+  background-color: #7868e6;
+  color: #e4fbff;
+}
+
+.bottom-container {
+  padding: 3%;
+  background-color: #66BFBF;
+}
+
+.footer-link {
+  margin-left: 1rem;
+  font-family: sans-serif;
+  padding: 0 20px;
+  color: #11999E;
+}
+
+.copy_right {
+  color: #EAF6F6;
+  font-size: 50%;
+  margin-top: 3rem;
+  font-family: serif;
+}
